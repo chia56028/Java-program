@@ -29,7 +29,7 @@ class Data{
 	}
 }
 
-public class test1{
+public class Test_0322{
 	public static void main(String args[]){
 	  
 		Scanner scn=new Scanner(System.in);

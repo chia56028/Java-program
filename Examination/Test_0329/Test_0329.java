@@ -24,7 +24,7 @@ class BMW extends car{
     }
 }
 
-public class test2{
+public class Test_0329{
     public static void main(String args[]){
         Scanner scn=new Scanner(System.in);
 
